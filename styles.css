@@ -16,6 +16,15 @@
     margin: 10px 45px;
 }
 
+.font-div {
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px 45px;
+    border: 2px dotted tomato;
+    padding: 5px 5px 2px 10px;
+}
+
 .blue {
     background-color: #2d5dcc;
 }
@@ -46,4 +55,16 @@
 
 .arch {
     font-family: 'Architects Daughter', cursive;
+}
+
+.bolded-text {
+    font-weight: bold;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.font-heading {
+    text-decoration: underline;
 }
