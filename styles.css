@@ -1,0 +1,36 @@
+.property {
+    border: 2px solid black;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+    display: block;
+}
+
+.color-box {
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    padding: 0 auto;
+    margin: 10px 45px;
+}
+
+.blue {
+    background-color: #2d5dcc;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+.heading {
+    margin: 10px;
+}
