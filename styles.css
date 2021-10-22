@@ -35,3 +35,15 @@
 .heading {
     margin: 10px;
 }
+
+.festive {
+    font-family: 'Festive', cursive;
+}
+
+.ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.arch {
+    font-family: 'Architects Daughter', cursive;
+}
